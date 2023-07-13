@@ -1,0 +1,592 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "Zentrale Koordination",
+            "label": "",
+            "wpUrl": "https://feda.bio/"
+          }
+        ],
+        "abbr": "feda",
+        "institution": "BMBF-Forschungsinitiative zum Erhalt der Artenvielfalt",
+        "lat": "50.1176162",
+        "lon": "8.651681",
+        "url": "https://feda.bio",
+        "img": "feda-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.651681",
+          "50.1176162"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "CAP4GI",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/cap4gi"
+          }
+        ],
+        "abbr": "adelphi",
+        "institution": "adelphi (Standort 1)",
+        "lat": "52.5233003",
+        "lon": "13.3438476",
+        "url": "https://www.adelphi.de/de",
+        "img": "adelphi-logo2021.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.3438476",
+          "52.5233003"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "CAP4GI",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/cap4gi"
+          }
+        ],
+        "abbr": "adelphi",
+        "institution": "adelphi (Standort 2)",
+        "lat": "52.50541687011719",
+        "lon": "13.376337051391602",
+        "url": "https://www.adelphi.de/de",
+        "img": "adelphi-logo2021.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.376337051391602",
+          "52.50541687011719"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "SLInBIO",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/slinbio"
+          }
+        ],
+        "abbr": "isoe",
+        "institution": "Institut f\u00fcr sozial-\u00f6kologische Forschung",
+        "lat": "50.11603546142578",
+        "lon": "8.646051406860352",
+        "url": "https://www.isoe.de",
+        "img": "isoe-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.646051406860352",
+          "50.11603546142578"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "TeichLausitz",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/teichlausitz"
+          }
+        ],
+        "abbr": "ifb",
+        "institution": "Institut f\u00fcr Binnenfischerei",
+        "lat": "52.44318771362305",
+        "lon": "13.090195655822754",
+        "url": "https://ifb-potsdam.de/",
+        "img": "ifb-logo.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.090195655822754",
+          "52.44318771362305"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "FLORA",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/flora"
+          }
+        ],
+        "abbr": "mlu",
+        "institution": "Martin-Luther-Universit\u00e4t Halle-Wittenberg ",
+        "lat": "51.4867452",
+        "lon": "11.9684435",
+        "url": "https://www.uni-halle.de/",
+        "img": "mlu-uni-halle-logo1.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "11.9684435",
+          "51.4867452"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "BioWaWi",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/biowawi"
+          }
+        ],
+        "abbr": "kit",
+        "institution": "Karlsruher Institut f\u00fcr Technologie (KIT)",
+        "lat": "49.01586288146506",
+        "lon": "8.391963473152353",
+        "url": "https://www.kit.edu/",
+        "img": "kit-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.391963473152353",
+          "49.01586288146506"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "ValuGaps",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/valugaps"
+          }
+        ],
+        "abbr": "idiv",
+        "institution": "Deutsches Zentrum f\u00fcr integrative Biodiversit\u00e4tsforschung",
+        "lat": "51.31728744506836",
+        "lon": "12.398361206054688",
+        "url": "https://www.idiv.de/de/index.html",
+        "img": "idiv-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.398361206054688",
+          "51.31728744506836"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "Bio-Mo-D",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/bio-mo-d"
+          }
+        ],
+        "abbr": "ioer",
+        "institution": "Leibniz-Institut f\u00fcr \u00f6kologische Raumentwicklung",
+        "lat": "51.030757904052734",
+        "lon": "13.748334884643555",
+        "url": "https://www.ioer.de/",
+        "img": "ioer-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.748334884643555",
+          "51.030757904052734"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "gARTENreich",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/gartenreich"
+          },
+          {
+            "name": "GiBBS",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/gibbs"
+          }
+        ],
+        "abbr": "ioew",
+        "institution": "Institut f\u00fcr \u00f6kologische Wirtschaftsforschung",
+        "lat": "52.5002598",
+        "lon": "13.3635706",
+        "url": "https://www.ioew.de/",
+        "img": "ioew-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.3635706",
+          "52.5002598"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "Grassworks",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/grassworks"
+          }
+        ],
+        "abbr": "leuphana",
+        "institution": "Leuphana Universit\u00e4t L\u00fcneburg",
+        "lat": "53.22850036621094",
+        "lon": "10.4055814743042",
+        "url": "https://www.leuphana.de/",
+        "img": "leuphana-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "10.4055814743042",
+          "53.22850036621094"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "Blaupause-LWS",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/blaupause-lws"
+          },
+          {
+            "name": "GOBIOM",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/gobiom"
+          }
+        ],
+        "abbr": "oeko",
+        "institution": "\u00d6ko-Institut",
+        "lat": "47.97554243610763",
+        "lon": "7.828997326939487",
+        "url": "https://www.oeko.de/",
+        "img": "oeko-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.828997326939487",
+          "47.97554243610763"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "Blaupause-LWS",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/blaupause-lws"
+          },
+          {
+            "name": "GOBIOM",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/gobiom"
+          }
+        ],
+        "abbr": "oeko",
+        "institution": "\u00d6ko-Institut",
+        "lat": "49.87151328334829",
+        "lon": "8.635400650046712",
+        "url": "https://www.oeko.de/",
+        "img": "oeko-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.635400650046712",
+          "49.87151328334829"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "Blaupause-LWS",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/blaupause-lws"
+          },
+          {
+            "name": "GOBIOM",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/gobiom"
+          }
+        ],
+        "abbr": "oeko",
+        "institution": "\u00d6ko-Institut",
+        "lat": "52.56547164916992",
+        "lon": "13.416975021362305",
+        "url": "https://www.oeko.de/",
+        "img": "oeko-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.416975021362305",
+          "52.56547164916992"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "BioDivKultur",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/biodivkultur"
+          }
+        ],
+        "abbr": "tu-darmstadt",
+        "institution": "TU Darmstadt",
+        "lat": "49.87522888183594",
+        "lon": "8.655789375305176",
+        "url": "https://www.tu-darmstadt.de/",
+        "img": "tu-darmstadt-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "8.655789375305176",
+          "49.87522888183594"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "ECO\u00b2SCAPE",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/eco2scape"
+          }
+        ],
+        "abbr": "tud",
+        "institution": "TU Dresden",
+        "lat": "51.0282765",
+        "lon": "13.7359828",
+        "url": "https://tu-dresden.de/",
+        "img": "tud-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.7359828",
+          "51.0282765"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "REWILD_DE",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/rewild_de"
+          }
+        ],
+        "abbr": "ufz",
+        "institution": "Helmholtz-Zentrum f\u00fcr Umweltforschung",
+        "lat": "51.35118103027344",
+        "lon": "12.433181762695312",
+        "url": "https://www.ufz.de/",
+        "img": "ufz-transparent-de-blue@2x.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.433181762695312",
+          "51.35118103027344"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "AKRIBI",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/akribi"
+          }
+        ],
+        "abbr": "uni-kassel",
+        "institution": "Universit\u00e4t Kassel",
+        "lat": "51.3233194",
+        "lon": "9.5064532",
+        "url": "https://www.uni-kassel.de/uni/",
+        "img": "uni-kassel.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5064532",
+          "51.3233194"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "BiTe",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/bite"
+          }
+        ],
+        "abbr": "wuppertal-institut",
+        "institution": "Wuppertal Institut f\u00fcr Klima, Umwelt, Energie",
+        "lat": "51.2553173",
+        "lon": "7.1525172",
+        "url": "https://wupperinst.org/",
+        "img": "wuppertal-institut-2020-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.1525172",
+          "51.2553173"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "BioVal",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/bioval"
+          }
+        ],
+        "abbr": "znu",
+        "institution": "Zentrum f\u00fcr Nachhaltige Unternehmensf\u00fchrung",
+        "lat": "51.4521881",
+        "lon": "7.3571148",
+        "url": "https://www.mehrwert-nachhaltigkeit.de/",
+        "img": "znu-logo.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "7.3571148",
+          "51.4521881"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "corporate body",
+        "group": "BiodiWert",
+        "projects": [
+          {
+            "name": "HoMaBiLe",
+            "label": "",
+            "wpUrl": "https://feda.bio/de/homabile"
+          }
+        ],
+        "abbr": "uni-greifswald",
+        "institution": "Universit\u00e4t Greifswald",
+        "lat": "54.09493",
+        "lon": "13.37466",
+        "url": "https://geo.uni-greifswald.de",
+        "img": "uni-greifswald_opt.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.37466",
+          "54.09493"
+        ]
+      }
+    }
+  ]
+}
